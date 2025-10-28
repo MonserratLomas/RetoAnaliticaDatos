@@ -4,3 +4,7 @@ Carrera: IDM
 Nombre: Gloria Jessica Pena Castro
 Matricula: A00840545
 Carrera: LDI
+Nombre: Regina Echavarria Torres
+MAtricula: A00841096
+Carrera: IFI
+
