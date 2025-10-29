@@ -7,4 +7,6 @@ Carrera: LDI
 Nombre: Regina Echavarria Torres
 MAtricula: A00841096
 Carrera: IFI
-
+Nombre: Robert Joseph Munoz
+Matricula: A01178535
+Carrera: BGB
