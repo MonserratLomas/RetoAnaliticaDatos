@@ -10,3 +10,6 @@ Carrera: IFI
 Nombre: Robert Joseph Munoz
 Matricula: A01178535
 Carrera: BGB
+Nombre: Robert Joseph Munoz
+Matricula: A01178535
+Carrera: BGB
